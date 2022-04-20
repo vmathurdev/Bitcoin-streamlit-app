@@ -12,4 +12,4 @@ df.columns = ['timestamp', currency]
 df = df.set_index('timestamp')
 st.line_chart(df)
 st.write('Average price during this time was ' + str((df[currency].sum())/days)) 
-st.write("The application and code is copyright ©  Vinamra Mathur")
+st.subheader("The application and code is copyright ©  Vinamra Mathur")
