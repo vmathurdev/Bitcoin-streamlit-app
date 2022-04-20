@@ -1,4 +1,6 @@
-# Bitcoin-streamlit-app
+# 📈 Bitcoin Prices Application
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/vmathurdev/bitcoin-streamlit-app/main/bitcoin.py)
 
 ### Application Link :  https://share.streamlit.io/vmathurdev/bitcoin-streamlit-app/main/bitcoin.py
 
